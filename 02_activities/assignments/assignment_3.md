@@ -27,7 +27,7 @@
 
          Equity: 
          This visualization has a dense layout and lacks contextual explanations which favors users with advanced data literacy, leaving novice users at a disadvantage. Additionally, it overlooks the cultural and regional nuances that might influence sales patterns, which are crucial for creating inclusive visualizations.  
-
+```
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
