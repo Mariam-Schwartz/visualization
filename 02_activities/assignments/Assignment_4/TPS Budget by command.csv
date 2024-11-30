@@ -1,0 +1,741 @@
+_id,Year,Type_of_Metric,Category,Command,Amount
+1,2016,Actual Expenditures,Salaries,Centralized Service Charges,41712046.76
+2,2016,Approved Budget,Premium Pay,Corporate Support Command,795700
+3,2016,Actual Expenditures,Benefits,Centralized Service Charges,86974692.98
+4,2016,Actual Expenditures,Premium Pay,Centralized Service Charges,441893.96
+5,2016,Approved Budget,Materials & Supplies,Corporate Support Command,264900
+6,2016,Approved Budget,Equipment,Corporate Support Command,4500
+7,2016,Actual Expenditures,Materials & Supplies,Centralized Service Charges,13628274.4
+8,2016,Actual Expenditures,Equipment,Centralized Service Charges,1179649.65
+9,2016,Approved Budget,Services,Corporate Support Command,892300
+10,2016,Approved Budget,Revenues,Corporate Support Command,-5418400
+11,2016,Actual Expenditures,Services,Centralized Service Charges,69566631.24
+12,2016,Actual Expenditures,Revenues,Centralized Service Charges,-64890191.2
+13,2016,Approved Budget,Salaries,Human Resources Command,35962000
+14,2016,Approved Budget,Benefits,Human Resources Command,5170600
+15,2016,Actual Expenditures,Salaries,Chief of Police,7089548.86
+16,2016,Actual Expenditures,Benefits,Chief of Police,1081736.61
+17,2016,Approved Budget,Premium Pay,Human Resources Command,648400
+18,2016,Approved Budget,Materials & Supplies,Human Resources Command,286600
+19,2016,Actual Expenditures,Premium Pay,Chief of Police,225241.09
+20,2016,Actual Expenditures,Materials & Supplies,Chief of Police,34604.78
+21,2016,Approved Budget,Equipment,Human Resources Command,27900
+22,2016,Approved Budget,Services,Human Resources Command,2222500
+23,2016,Actual Expenditures,Equipment,Chief of Police,74661.39
+24,2016,Actual Expenditures,Services,Chief of Police,324857.47
+25,2016,Approved Budget,Revenues,Human Resources Command,0
+26,2016,Approved Budget,Salaries,Information Technology Command,18388800
+27,2016,Actual Expenditures,Revenues,Chief of Police,-8430.2
+28,2016,Actual Expenditures,Salaries,Communities & Neighbourhoods Command,233978535.3
+29,2016,Approved Budget,Benefits,Information Technology Command,2746300
+30,2016,Approved Budget,Premium Pay,Information Technology Command,264800
+31,2016,Actual Expenditures,Benefits,Communities & Neighbourhoods Command,36537378.69
+32,2016,Actual Expenditures,Premium Pay,Communities & Neighbourhoods Command,19696621.89
+33,2017,Approved Budget,Equipment,(blank),0
+34,2016,Approved Budget,Materials & Supplies,Information Technology Command,576900
+35,2016,Approved Budget,Equipment,Information Technology Command,363500
+36,2016,Actual Expenditures,Materials & Supplies,Communities & Neighbourhoods Command,394858.15
+37,2016,Actual Expenditures,Equipment,Communities & Neighbourhoods Command,41551.34
+38,2016,Approved Budget,Services,Information Technology Command,19733300
+39,2016,Approved Budget,Revenues,Information Technology Command,-1143100
+40,2016,Actual Expenditures,Services,Communities & Neighbourhoods Command,1111300.94
+41,2016,Actual Expenditures,Revenues,Communities & Neighbourhoods Command,-420795.95
+42,2016,Approved Budget,Salaries,Parking Enforcement Unit,30115600
+43,2016,Actual Expenditures,Salaries,Corporate Support Command,40206687.49
+44,2016,Actual Expenditures,Benefits,Corporate Support Command,6105156.84
+45,2016,Approved Budget,Benefits,Parking Enforcement Unit,7527600
+46,2016,Approved Budget,Premium Pay,Parking Enforcement Unit,2834700
+47,2016,Actual Expenditures,Premium Pay,Corporate Support Command,633590.88
+48,2016,Actual Expenditures,Materials & Supplies,Corporate Support Command,243044.01
+49,2016,Approved Budget,Materials & Supplies,Parking Enforcement Unit,1479100
+50,2016,Approved Budget,Equipment,Parking Enforcement Unit,28000
+51,2016,Actual Expenditures,Equipment,Corporate Support Command,13301.15
+52,2016,Actual Expenditures,Services,Corporate Support Command,923635.95
+53,2016,Approved Budget,Services,Parking Enforcement Unit,5466000
+54,2016,Approved Budget,Revenues,Parking Enforcement Unit,-1519500
+55,2016,Actual Expenditures,Revenues,Corporate Support Command,-5963811.28
+56,2017,Actual Expenditures,Equipment,Parking Enforcement Unit,6345.77
+57,2016,Approved Budget,Salaries,Priority Response Command,288944200
+58,2016,Actual Expenditures,Salaries,Human Resources Command,32539402.47
+59,2016,Approved Budget,Benefits,Priority Response Command,44828500
+60,2016,Actual Expenditures,Benefits,Human Resources Command,4969616.38
+61,2016,Approved Budget,Premium Pay,Priority Response Command,27459600
+62,2017,Actual Expenditures,Services,Parking Enforcement Unit,5488646.44
+63,2016,Actual Expenditures,Premium Pay,Human Resources Command,599581.92
+64,2016,Approved Budget,Materials & Supplies,Priority Response Command,490400
+65,2017,Actual Expenditures,Revenues,Parking Enforcement Unit,-1791561.57
+66,2016,Actual Expenditures,Materials & Supplies,Human Resources Command,232316.05
+67,2016,Approved Budget,Equipment,Priority Response Command,90600
+68,2017,Actual Expenditures,Salaries,Priority Response Command,275859928.9
+69,2016,Actual Expenditures,Equipment,Human Resources Command,61110.68
+70,2016,Approved Budget,Services,Priority Response Command,1153800
+71,2017,Actual Expenditures,Benefits,Priority Response Command,42414391.64
+72,2016,Actual Expenditures,Services,Human Resources Command,1931396.32
+73,2016,Approved Budget,Revenues,Priority Response Command,-48301600
+74,2017,Actual Expenditures,Premium Pay,Priority Response Command,15408761.3
+75,2016,Actual Expenditures,Revenues,Human Resources Command,-1051067.17
+76,2016,Approved Budget,Salaries,Specialized Operations Command,108726100
+77,2017,Actual Expenditures,Materials & Supplies,Priority Response Command,380013.66
+78,2016,Actual Expenditures,Salaries,Information Technology Command,16977421.36
+79,2016,Approved Budget,Benefits,Specialized Operations Command,16657300
+80,2017,Actual Expenditures,Equipment,Priority Response Command,277813.13
+81,2016,Actual Expenditures,Benefits,Information Technology Command,2505609.64
+82,2016,Approved Budget,Premium Pay,Specialized Operations Command,7653300
+83,2017,Actual Expenditures,Services,Priority Response Command,1145742.77
+84,2017,Actual Expenditures,Revenues,Priority Response Command,-52473804.76
+85,2017,Actual Expenditures,Salaries,Specialized Operations Command,119148564.3
+86,2017,Actual Expenditures,Benefits,Specialized Operations Command,18224187.9
+87,2017,Actual Expenditures,Premium Pay,Specialized Operations Command,10722133.73
+88,2017,Actual Expenditures,Materials & Supplies,Specialized Operations Command,1489892.4
+89,2017,Actual Expenditures,Equipment,Specialized Operations Command,1358692.07
+90,2017,Actual Expenditures,Services,Specialized Operations Command,3957430.81
+91,2017,Actual Expenditures,Revenues,Specialized Operations Command,-6650695.54
+92,2017,Actual Expenditures,Salaries,Toronto Police Services Board,780310.4
+93,2017,Actual Expenditures,Benefits,Toronto Police Services Board,103743.88
+94,2017,Actual Expenditures,Premium Pay,Toronto Police Services Board,1775.8
+95,2017,Actual Expenditures,Materials & Supplies,Toronto Police Services Board,7195.42
+96,2017,Actual Expenditures,Equipment,Toronto Police Services Board,6002.48
+97,2018,Approved Budget,Benefits,Chief of Police,1392400
+98,2017,Actual Expenditures,Services,Toronto Police Services Board,1531074.09
+99,2017,Actual Expenditures,Revenues,Toronto Police Services Board,-382629.99
+100,2017,Actual Expenditures,Salaries,(blank),848491.88
+101,2017,Actual Expenditures,Benefits,(blank),35518.05
+102,2017,Actual Expenditures,Premium Pay,(blank),73795.56
+103,2017,Actual Expenditures,Materials & Supplies,(blank),307.29
+104,2017,Actual Expenditures,Equipment,(blank),18594.4
+105,2017,Actual Expenditures,Services,(blank),18303.47
+106,2017,Actual Expenditures,Revenues,(blank),0
+107,2017,Approved Budget,Salaries,Centralized Service Charges,173500
+108,2017,Approved Budget,Benefits,Centralized Service Charges,93573600
+109,2017,Approved Budget,Premium Pay,Centralized Service Charges,0
+110,2017,Approved Budget,Materials & Supplies,Centralized Service Charges,14372500
+111,2017,Approved Budget,Equipment,Centralized Service Charges,977900
+112,2017,Approved Budget,Services,Centralized Service Charges,74075800
+113,2017,Approved Budget,Revenues,Centralized Service Charges,-68229700
+114,2017,Approved Budget,Salaries,Chief of Police,7547800
+115,2017,Approved Budget,Benefits,Chief of Police,1155800
+116,2017,Approved Budget,Premium Pay,Chief of Police,180200
+117,2017,Approved Budget,Materials & Supplies,Chief of Police,41300
+118,2017,Approved Budget,Equipment,Chief of Police,58700
+119,2017,Approved Budget,Services,Chief of Police,398500
+120,2017,Approved Budget,Revenues,Chief of Police,0
+121,2017,Approved Budget,Salaries,Communities & Neighbourhoods Command,255980400
+122,2017,Approved Budget,Benefits,Communities & Neighbourhoods Command,39303800
+123,2017,Approved Budget,Premium Pay,Communities & Neighbourhoods Command,3442300
+124,2017,Approved Budget,Materials & Supplies,Communities & Neighbourhoods Command,417700
+125,2017,Approved Budget,Equipment,Communities & Neighbourhoods Command,40400
+126,2016,Actual Expenditures,Premium Pay,Information Technology Command,260875.9
+127,2016,Approved Budget,Materials & Supplies,Specialized Operations Command,1066200
+128,2016,Actual Expenditures,Materials & Supplies,Information Technology Command,636956.37
+129,2016,Approved Budget,Equipment,Specialized Operations Command,1077900
+130,2016,Actual Expenditures,Equipment,Information Technology Command,1622324.09
+131,2016,Approved Budget,Services,Specialized Operations Command,3653500
+132,2016,Actual Expenditures,Services,Information Technology Command,18244567.58
+133,2016,Approved Budget,Revenues,Specialized Operations Command,-2260400
+134,2016,Actual Expenditures,Revenues,Information Technology Command,-2001520.86
+135,2016,Approved Budget,Salaries,Toronto Police Services Board,879500
+136,2016,Actual Expenditures,Salaries,Parking Enforcement Unit,29030209.37
+137,2016,Actual Expenditures,Benefits,Parking Enforcement Unit,7396120.2
+138,2016,Actual Expenditures,Premium Pay,Parking Enforcement Unit,2853133.74
+139,2016,Actual Expenditures,Materials & Supplies,Parking Enforcement Unit,1004182.65
+140,2016,Actual Expenditures,Equipment,Parking Enforcement Unit,17946.45
+141,2016,Actual Expenditures,Services,Parking Enforcement Unit,5029931.28
+142,2016,Actual Expenditures,Revenues,Parking Enforcement Unit,-2032382.26
+143,2016,Actual Expenditures,Salaries,Priority Response Command,273860293.8
+144,2016,Approved Budget,Benefits,Toronto Police Services Board,122700
+145,2016,Approved Budget,Premium Pay,Toronto Police Services Board,0
+146,2016,Approved Budget,Materials & Supplies,Toronto Police Services Board,7600
+147,2016,Approved Budget,Equipment,Toronto Police Services Board,900
+148,2016,Approved Budget,Services,Toronto Police Services Board,2041200
+149,2016,Approved Budget,Revenues,Toronto Police Services Board,-750000
+150,2016,Approved Budget,Salaries,(blank),675700
+151,2016,Approved Budget,Benefits,(blank),99600
+152,2016,Approved Budget,Premium Pay,(blank),0
+153,2016,Actual Expenditures,Benefits,Priority Response Command,42466133.29
+154,2016,Actual Expenditures,Premium Pay,Priority Response Command,16271628.51
+155,2016,Actual Expenditures,Materials & Supplies,Priority Response Command,434426.27
+156,2016,Actual Expenditures,Equipment,Priority Response Command,51719.53
+157,2016,Actual Expenditures,Services,Priority Response Command,1109882.29
+158,2016,Actual Expenditures,Revenues,Priority Response Command,-49731403.75
+159,2016,Actual Expenditures,Salaries,Specialized Operations Command,113186833.3
+160,2016,Actual Expenditures,Benefits,Specialized Operations Command,17483823.86
+161,2016,Actual Expenditures,Premium Pay,Specialized Operations Command,8966063.56
+162,2016,Actual Expenditures,Materials & Supplies,Specialized Operations Command,1059096.68
+163,2016,Actual Expenditures,Equipment,Specialized Operations Command,1426540.24
+164,2018,Approved Budget,Premium Pay,Chief of Police,183500
+165,2016,Actual Expenditures,Services,Specialized Operations Command,4008879.93
+166,2016,Actual Expenditures,Revenues,Specialized Operations Command,-4575992.65
+167,2016,Actual Expenditures,Salaries,Toronto Police Services Board,802917.6
+168,2016,Actual Expenditures,Benefits,Toronto Police Services Board,111438.04
+169,2016,Actual Expenditures,Premium Pay,Toronto Police Services Board,5394.99
+170,2016,Actual Expenditures,Materials & Supplies,Toronto Police Services Board,1262.68
+171,2016,Actual Expenditures,Equipment,Toronto Police Services Board,39778.53
+172,2016,Actual Expenditures,Services,Toronto Police Services Board,1581909.6
+173,2016,Actual Expenditures,Revenues,Toronto Police Services Board,-350478.95
+174,2016,Actual Expenditures,Salaries,(blank),656708.57
+175,2016,Actual Expenditures,Benefits,(blank),41026.59
+176,2016,Actual Expenditures,Premium Pay,(blank),0
+177,2016,Actual Expenditures,Materials & Supplies,(blank),228.55
+178,2016,Actual Expenditures,Equipment,(blank),0
+179,2016,Actual Expenditures,Services,(blank),16997.63
+180,2016,Actual Expenditures,Revenues,(blank),0
+181,2016,Approved Budget,Salaries,Centralized Service Charges,9786200
+182,2016,Approved Budget,Benefits,Centralized Service Charges,90621600
+183,2016,Approved Budget,Premium Pay,Centralized Service Charges,1515000
+184,2016,Approved Budget,Materials & Supplies,Centralized Service Charges,15016600
+185,2016,Approved Budget,Equipment,Centralized Service Charges,789800
+186,2016,Approved Budget,Services,Centralized Service Charges,69023600
+187,2016,Approved Budget,Revenues,Centralized Service Charges,-69832200
+188,2016,Approved Budget,Salaries,Chief of Police,5737800
+189,2016,Approved Budget,Benefits,Chief of Police,879500
+190,2016,Approved Budget,Premium Pay,Chief of Police,83000
+191,2016,Approved Budget,Materials & Supplies,Chief of Police,50500
+192,2016,Approved Budget,Equipment,Chief of Police,67000
+193,2016,Approved Budget,Services,Chief of Police,395900
+194,2016,Approved Budget,Revenues,Chief of Police,0
+195,2016,Approved Budget,Salaries,Communities & Neighbourhoods Command,251323100
+196,2016,Approved Budget,Benefits,Communities & Neighbourhoods Command,38880200
+197,2016,Approved Budget,Premium Pay,Communities & Neighbourhoods Command,3435200
+198,2016,Approved Budget,Materials & Supplies,Communities & Neighbourhoods Command,465000
+199,2016,Approved Budget,Equipment,Communities & Neighbourhoods Command,63600
+200,2016,Approved Budget,Services,Communities & Neighbourhoods Command,1048900
+201,2016,Approved Budget,Revenues,Communities & Neighbourhoods Command,-184000
+202,2016,Approved Budget,Salaries,Corporate Support Command,44877000
+203,2016,Approved Budget,Benefits,Corporate Support Command,6873500
+204,2016,Approved Budget,Materials & Supplies,(blank),700
+205,2016,Approved Budget,Equipment,(blank),0
+206,2016,Approved Budget,Services,(blank),24800
+207,2016,Approved Budget,Revenues,(blank),0
+208,2017,Actual Expenditures,Salaries,Centralized Service Charges,31717216.1
+209,2017,Actual Expenditures,Benefits,Centralized Service Charges,90561781.32
+210,2017,Actual Expenditures,Premium Pay,Centralized Service Charges,410025.63
+211,2017,Actual Expenditures,Materials & Supplies,Centralized Service Charges,14116475.46
+212,2017,Actual Expenditures,Equipment,Centralized Service Charges,2069272.17
+213,2017,Actual Expenditures,Services,Centralized Service Charges,73824807.81
+214,2017,Actual Expenditures,Revenues,Centralized Service Charges,-65047507.57
+215,2017,Actual Expenditures,Salaries,Chief of Police,8961408.82
+216,2017,Actual Expenditures,Benefits,Chief of Police,1373674.8
+217,2017,Actual Expenditures,Premium Pay,Chief of Police,276862.92
+218,2017,Actual Expenditures,Materials & Supplies,Chief of Police,37242.26
+219,2017,Actual Expenditures,Equipment,Chief of Police,92930.5
+220,2017,Actual Expenditures,Services,Chief of Police,465389.35
+221,2017,Actual Expenditures,Revenues,Chief of Police,-203853.41
+222,2017,Actual Expenditures,Salaries,Communities & Neighbourhoods Command,224018523
+223,2017,Actual Expenditures,Benefits,Communities & Neighbourhoods Command,34754293.36
+224,2017,Actual Expenditures,Premium Pay,Communities & Neighbourhoods Command,19490917.85
+225,2017,Actual Expenditures,Materials & Supplies,Communities & Neighbourhoods Command,403201.89
+226,2017,Actual Expenditures,Equipment,Communities & Neighbourhoods Command,73137.67
+227,2017,Actual Expenditures,Services,Communities & Neighbourhoods Command,1046158.07
+228,2017,Actual Expenditures,Revenues,Communities & Neighbourhoods Command,-333970.58
+229,2017,Actual Expenditures,Salaries,Corporate Support Command,39704471.52
+230,2017,Actual Expenditures,Benefits,Corporate Support Command,6019710.18
+231,2017,Actual Expenditures,Premium Pay,Corporate Support Command,755655.86
+232,2017,Actual Expenditures,Materials & Supplies,Corporate Support Command,259162.73
+233,2017,Actual Expenditures,Equipment,Corporate Support Command,73136.28
+234,2017,Actual Expenditures,Services,Corporate Support Command,1370658.67
+235,2017,Actual Expenditures,Revenues,Corporate Support Command,-5970016.07
+236,2017,Actual Expenditures,Salaries,Human Resources Command,29651227.3
+237,2017,Actual Expenditures,Benefits,Human Resources Command,4325202.88
+238,2017,Actual Expenditures,Premium Pay,Human Resources Command,652683.86
+239,2017,Actual Expenditures,Materials & Supplies,Human Resources Command,308079.93
+240,2017,Actual Expenditures,Equipment,Human Resources Command,34248.92
+241,2017,Actual Expenditures,Services,Human Resources Command,1536485.86
+242,2017,Actual Expenditures,Revenues,Human Resources Command,-1010932.62
+243,2017,Actual Expenditures,Salaries,Information Technology Command,16776135.2
+244,2017,Actual Expenditures,Benefits,Information Technology Command,2461354.84
+245,2017,Actual Expenditures,Premium Pay,Information Technology Command,244354.62
+246,2017,Actual Expenditures,Materials & Supplies,Information Technology Command,619239.68
+247,2017,Actual Expenditures,Equipment,Information Technology Command,1141288.53
+248,2017,Actual Expenditures,Services,Information Technology Command,19547253.74
+249,2017,Actual Expenditures,Revenues,Information Technology Command,-1665368.29
+250,2017,Actual Expenditures,Salaries,Parking Enforcement Unit,28105810.57
+251,2017,Actual Expenditures,Benefits,Parking Enforcement Unit,7053398.28
+252,2017,Actual Expenditures,Premium Pay,Parking Enforcement Unit,2969500.67
+253,2017,Actual Expenditures,Materials & Supplies,Parking Enforcement Unit,986150.3
+254,2017,Approved Budget,Services,Communities & Neighbourhoods Command,981700
+255,2017,Approved Budget,Revenues,Toronto Police Services Board,-500000
+256,2017,Approved Budget,Revenues,Communities & Neighbourhoods Command,-184000
+257,2017,Approved Budget,Salaries,(blank),644300
+258,2017,Approved Budget,Salaries,Corporate Support Command,45510900
+259,2017,Approved Budget,Benefits,(blank),99200
+260,2017,Approved Budget,Benefits,Corporate Support Command,6850900
+261,2017,Approved Budget,Premium Pay,(blank),0
+262,2017,Approved Budget,Premium Pay,Corporate Support Command,791100
+263,2017,Approved Budget,Materials & Supplies,(blank),900
+264,2017,Approved Budget,Materials & Supplies,Corporate Support Command,260900
+265,2017,Approved Budget,Equipment,Corporate Support Command,4400
+266,2017,Approved Budget,Services,(blank),23300
+267,2017,Approved Budget,Services,Corporate Support Command,818100
+268,2017,Approved Budget,Revenues,(blank),0
+269,2017,Approved Budget,Revenues,Corporate Support Command,-5783700
+270,2018,Actual Expenditures,Salaries,Centralized Service Charges,33289318.73
+271,2017,Approved Budget,Salaries,Human Resources Command,34227400
+272,2018,Actual Expenditures,Benefits,Centralized Service Charges,92654930.88
+273,2017,Approved Budget,Benefits,Human Resources Command,5223300
+274,2018,Actual Expenditures,Premium Pay,Centralized Service Charges,2117750.88
+275,2017,Approved Budget,Premium Pay,Human Resources Command,588500
+276,2018,Actual Expenditures,Materials & Supplies,Centralized Service Charges,15504310.79
+277,2017,Approved Budget,Materials & Supplies,Human Resources Command,257600
+278,2018,Actual Expenditures,Equipment,Centralized Service Charges,4386513.36
+279,2017,Approved Budget,Equipment,Human Resources Command,17500
+280,2018,Actual Expenditures,Services,Centralized Service Charges,81810139.84
+281,2017,Approved Budget,Services,Human Resources Command,1333800
+282,2018,Actual Expenditures,Revenues,Centralized Service Charges,-78199653.37
+283,2017,Approved Budget,Revenues,Human Resources Command,0
+284,2018,Actual Expenditures,Salaries,Chief of Police,8104448.74
+285,2017,Approved Budget,Salaries,Information Technology Command,18565600
+286,2018,Actual Expenditures,Benefits,Chief of Police,1186162.77
+287,2017,Approved Budget,Benefits,Information Technology Command,2751900
+288,2018,Actual Expenditures,Premium Pay,Chief of Police,312153.57
+289,2017,Approved Budget,Premium Pay,Information Technology Command,270300
+290,2018,Actual Expenditures,Materials & Supplies,Chief of Police,41419.26
+291,2017,Approved Budget,Materials & Supplies,Information Technology Command,576500
+292,2018,Actual Expenditures,Equipment,Chief of Police,104613.82
+293,2017,Approved Budget,Equipment,Information Technology Command,364300
+294,2018,Actual Expenditures,Services,Chief of Police,407959.64
+295,2017,Approved Budget,Services,Information Technology Command,20225600
+296,2018,Actual Expenditures,Revenues,Chief of Police,-32207.6
+297,2018,Actual Expenditures,Salaries,Communities & Neighbourhoods Command,217240434.3
+298,2017,Approved Budget,Revenues,Information Technology Command,-1172100
+299,2017,Approved Budget,Salaries,Parking Enforcement Unit,30557200
+300,2017,Approved Budget,Benefits,Parking Enforcement Unit,7692400
+301,2017,Approved Budget,Premium Pay,Parking Enforcement Unit,2746200
+302,2017,Approved Budget,Materials & Supplies,Parking Enforcement Unit,1385200
+303,2017,Approved Budget,Equipment,Parking Enforcement Unit,15000
+304,2017,Approved Budget,Services,Parking Enforcement Unit,5851800
+305,2018,Actual Expenditures,Benefits,Communities & Neighbourhoods Command,33729020.29
+306,2017,Approved Budget,Revenues,Parking Enforcement Unit,-1525200
+307,2018,Actual Expenditures,Premium Pay,Communities & Neighbourhoods Command,24216202.78
+308,2017,Approved Budget,Salaries,Priority Response Command,279049100
+309,2018,Actual Expenditures,Materials & Supplies,Communities & Neighbourhoods Command,381434.56
+310,2017,Approved Budget,Benefits,Priority Response Command,45274200
+311,2018,Actual Expenditures,Equipment,Communities & Neighbourhoods Command,55784.67
+312,2017,Approved Budget,Premium Pay,Priority Response Command,26191600
+313,2018,Actual Expenditures,Services,Communities & Neighbourhoods Command,1030124.57
+314,2017,Approved Budget,Materials & Supplies,Priority Response Command,449600
+315,2018,Actual Expenditures,Revenues,Communities & Neighbourhoods Command,-315491.62
+316,2017,Approved Budget,Equipment,Priority Response Command,26100
+317,2018,Actual Expenditures,Salaries,Corporate Support Command,38763712.35
+318,2017,Approved Budget,Services,Priority Response Command,1299400
+319,2018,Actual Expenditures,Benefits,Corporate Support Command,5882824.09
+320,2017,Approved Budget,Revenues,Priority Response Command,-52893000
+321,2018,Actual Expenditures,Premium Pay,Corporate Support Command,1064098.43
+322,2017,Approved Budget,Salaries,Specialized Operations Command,112556900
+323,2018,Actual Expenditures,Materials & Supplies,Corporate Support Command,265837.38
+324,2017,Approved Budget,Benefits,Specialized Operations Command,17166100
+325,2018,Actual Expenditures,Equipment,Corporate Support Command,14569.77
+326,2017,Approved Budget,Premium Pay,Specialized Operations Command,9031100
+327,2018,Actual Expenditures,Services,Corporate Support Command,1012342.58
+328,2017,Approved Budget,Materials & Supplies,Specialized Operations Command,1147700
+329,2018,Actual Expenditures,Revenues,Corporate Support Command,-6316933.15
+330,2017,Approved Budget,Equipment,Specialized Operations Command,825500
+331,2018,Actual Expenditures,Salaries,Human Resources Command,33684611.06
+332,2017,Approved Budget,Services,Specialized Operations Command,3471400
+333,2018,Actual Expenditures,Benefits,Human Resources Command,5000354.36
+334,2017,Approved Budget,Revenues,Specialized Operations Command,-4028900
+335,2018,Actual Expenditures,Premium Pay,Human Resources Command,1423734.57
+336,2017,Approved Budget,Salaries,Toronto Police Services Board,895100
+337,2018,Actual Expenditures,Materials & Supplies,Human Resources Command,279329.71
+338,2017,Approved Budget,Benefits,Toronto Police Services Board,124400
+339,2018,Actual Expenditures,Equipment,Human Resources Command,121219.93
+340,2017,Approved Budget,Premium Pay,Toronto Police Services Board,0
+341,2018,Actual Expenditures,Services,Human Resources Command,2149061.1
+342,2017,Approved Budget,Materials & Supplies,Toronto Police Services Board,7600
+343,2018,Actual Expenditures,Revenues,Human Resources Command,-1181018.61
+344,2017,Approved Budget,Equipment,Toronto Police Services Board,26000
+345,2018,Actual Expenditures,Salaries,Information Technology Command,16301659.94
+346,2017,Approved Budget,Services,Toronto Police Services Board,1756000
+347,2018,Actual Expenditures,Benefits,Information Technology Command,2408174.6
+348,2018,Actual Expenditures,Premium Pay,Information Technology Command,302783.64
+349,2018,Actual Expenditures,Materials & Supplies,Information Technology Command,589937.71
+350,2018,Actual Expenditures,Equipment,Information Technology Command,1009405.87
+351,2018,Actual Expenditures,Services,Information Technology Command,21136868.2
+352,2018,Actual Expenditures,Revenues,Information Technology Command,-1505377.94
+353,2018,Actual Expenditures,Salaries,Parking Enforcement Unit,27672527.74
+354,2018,Actual Expenditures,Benefits,Parking Enforcement Unit,6921080.29
+355,2018,Actual Expenditures,Premium Pay,Parking Enforcement Unit,2490136.74
+356,2018,Actual Expenditures,Materials & Supplies,Parking Enforcement Unit,1246010.07
+357,2018,Actual Expenditures,Equipment,Parking Enforcement Unit,3009.31
+358,2018,Actual Expenditures,Services,Parking Enforcement Unit,5551630.98
+359,2018,Actual Expenditures,Revenues,Parking Enforcement Unit,-1085060.59
+360,2018,Actual Expenditures,Salaries,Priority Response Command,269954946.3
+361,2018,Actual Expenditures,Benefits,Priority Response Command,41734528.77
+362,2018,Actual Expenditures,Premium Pay,Priority Response Command,27056848.09
+363,2018,Actual Expenditures,Materials & Supplies,Priority Response Command,421584.68
+364,2018,Actual Expenditures,Equipment,Priority Response Command,18127.05
+365,2018,Actual Expenditures,Services,Priority Response Command,1090934.8
+366,2018,Actual Expenditures,Revenues,Priority Response Command,-59191231.98
+367,2018,Actual Expenditures,Salaries,Specialized Operations Command,120624162.1
+368,2018,Actual Expenditures,Benefits,Specialized Operations Command,18758237.56
+369,2018,Actual Expenditures,Premium Pay,Specialized Operations Command,12107414.4
+370,2018,Actual Expenditures,Materials & Supplies,Specialized Operations Command,1417359.5
+371,2018,Actual Expenditures,Equipment,Specialized Operations Command,1546412.06
+372,2018,Actual Expenditures,Services,Specialized Operations Command,4737177.29
+373,2018,Actual Expenditures,Revenues,Specialized Operations Command,-4615262.4
+374,2018,Actual Expenditures,Salaries,Toronto Police Services Board,865004.5
+375,2018,Actual Expenditures,Benefits,Toronto Police Services Board,135661.56
+376,2018,Actual Expenditures,Premium Pay,Toronto Police Services Board,218.86
+377,2018,Actual Expenditures,Materials & Supplies,Toronto Police Services Board,3340.17
+378,2018,Actual Expenditures,Equipment,Toronto Police Services Board,1417.99
+379,2018,Actual Expenditures,Services,Toronto Police Services Board,1884260.78
+380,2018,Actual Expenditures,Revenues,Toronto Police Services Board,-629755.91
+381,2018,Actual Expenditures,Salaries,(blank),3239.2
+382,2018,Actual Expenditures,Benefits,(blank),1088.3
+383,2018,Actual Expenditures,Premium Pay,(blank),10192.78
+384,2018,Actual Expenditures,Materials & Supplies,(blank),1193.96
+385,2018,Actual Expenditures,Services,(blank),43912.74
+386,2018,Actual Expenditures,Revenues,(blank),-257804
+387,2018,Approved Budget,Salaries,Centralized Service Charges,31706900
+388,2018,Approved Budget,Benefits,Centralized Service Charges,95966100
+389,2018,Approved Budget,Premium Pay,Centralized Service Charges,2771900
+390,2018,Approved Budget,Materials & Supplies,Centralized Service Charges,14813000
+391,2018,Approved Budget,Equipment,Centralized Service Charges,1139100
+392,2018,Approved Budget,Services,Centralized Service Charges,81987500
+393,2018,Approved Budget,Revenues,Centralized Service Charges,-71084900
+394,2018,Approved Budget,Salaries,Chief of Police,9091500
+395,2018,Approved Budget,Materials & Supplies,Chief of Police,38400
+396,2018,Approved Budget,Equipment,Chief of Police,59700
+397,2018,Approved Budget,Services,Chief of Police,401600
+398,2018,Approved Budget,Revenues,Chief of Police,0
+399,2018,Approved Budget,Salaries,Communities & Neighbourhoods Command,228405600
+400,2018,Approved Budget,Benefits,Communities & Neighbourhoods Command,35064800
+401,2019,Approved Budget,Revenues,Information Technology Command,-1612400
+402,2019,Approved Budget,Salaries,Parking Enforcement Unit,31458000
+403,2019,Approved Budget,Benefits,Parking Enforcement Unit,7789800
+404,2019,Approved Budget,Premium Pay,Parking Enforcement Unit,2424100
+405,2019,Approved Budget,Materials & Supplies,Parking Enforcement Unit,1456400
+406,2019,Approved Budget,Equipment,Parking Enforcement Unit,15000
+407,2019,Approved Budget,Services,Parking Enforcement Unit,6034600
+408,2019,Approved Budget,Revenues,Parking Enforcement Unit,-1539700
+409,2019,Approved Budget,Salaries,Priority Response Command,283177600
+410,2019,Approved Budget,Benefits,Priority Response Command,43651100
+411,2019,Approved Budget,Premium Pay,Priority Response Command,35266900
+412,2019,Approved Budget,Materials & Supplies,Priority Response Command,426200
+413,2019,Approved Budget,Equipment,Priority Response Command,29200
+414,2019,Approved Budget,Services,Priority Response Command,1275000
+415,2019,Approved Budget,Revenues,Priority Response Command,-53220000
+416,2019,Approved Budget,Salaries,Specialized Operations Command,124211100
+417,2019,Approved Budget,Benefits,Specialized Operations Command,19305400
+418,2019,Approved Budget,Premium Pay,Specialized Operations Command,9670000
+419,2019,Approved Budget,Materials & Supplies,Specialized Operations Command,1276400
+420,2019,Approved Budget,Equipment,Specialized Operations Command,958600
+421,2019,Approved Budget,Services,Specialized Operations Command,4259200
+422,2019,Approved Budget,Revenues,Specialized Operations Command,-2588900
+423,2019,Approved Budget,Salaries,Toronto Police Services Board,1046400
+424,2019,Approved Budget,Benefits,Toronto Police Services Board,153000
+425,2019,Approved Budget,Premium Pay,Toronto Police Services Board,0
+426,2019,Approved Budget,Materials & Supplies,Toronto Police Services Board,7600
+427,2019,Approved Budget,Equipment,Toronto Police Services Board,6600
+428,2019,Approved Budget,Services,Toronto Police Services Board,3570800
+429,2019,Approved Budget,Revenues,Toronto Police Services Board,-2300000
+430,2020,Actual Expenditures,Salaries,Centralized Service Charges,33003100.1
+431,2020,Actual Expenditures,Benefits,Centralized Service Charges,94257098.36
+432,2020,Actual Expenditures,Premium Pay,Centralized Service Charges,2206866.37
+433,2020,Actual Expenditures,Materials & Supplies,Centralized Service Charges,17978912.99
+434,2020,Actual Expenditures,Equipment,Centralized Service Charges,8549302.18
+435,2020,Actual Expenditures,Services,Centralized Service Charges,66520896.07
+436,2020,Actual Expenditures,Revenues,Centralized Service Charges,-73299177.9
+437,2020,Actual Expenditures,Salaries,Chief of Police,11010145.28
+438,2020,Actual Expenditures,Benefits,Chief of Police,1534954.5
+439,2020,Actual Expenditures,Premium Pay,Chief of Police,509288.08
+440,2020,Actual Expenditures,Materials & Supplies,Chief of Police,65720.8
+441,2020,Actual Expenditures,Equipment,Chief of Police,253289.73
+442,2020,Actual Expenditures,Services,Chief of Police,604768.42
+443,2020,Actual Expenditures,Revenues,Chief of Police,-5780.4
+444,2020,Actual Expenditures,Salaries,Communities & Neighbourhoods Command,231580503.6
+445,2020,Actual Expenditures,Benefits,Communities & Neighbourhoods Command,36806348.55
+446,2020,Actual Expenditures,Premium Pay,Communities & Neighbourhoods Command,17950086.78
+447,2020,Actual Expenditures,Materials & Supplies,Communities & Neighbourhoods Command,492734.98
+448,2020,Actual Expenditures,Equipment,Communities & Neighbourhoods Command,409566.04
+449,2020,Actual Expenditures,Services,Communities & Neighbourhoods Command,437361.31
+450,2020,Actual Expenditures,Revenues,Communities & Neighbourhoods Command,-176484.47
+451,2020,Actual Expenditures,Salaries,Corporate Support Command,38586145.41
+452,2020,Actual Expenditures,Benefits,Corporate Support Command,5799755.57
+453,2020,Actual Expenditures,Premium Pay,Corporate Support Command,649505.14
+454,2020,Actual Expenditures,Materials & Supplies,Corporate Support Command,236051.91
+455,2020,Actual Expenditures,Equipment,Corporate Support Command,149155.74
+456,2020,Actual Expenditures,Services,Corporate Support Command,729836.03
+457,2020,Actual Expenditures,Revenues,Corporate Support Command,-3907263.5
+458,2018,Approved Budget,Premium Pay,Communities & Neighbourhoods Command,3505200
+459,2019,Actual Expenditures,Services,Priority Response Command,1102327.35
+460,2020,Actual Expenditures,Salaries,Human Resources Command,47667047.35
+461,2018,Approved Budget,Materials & Supplies,Communities & Neighbourhoods Command,416600
+462,2019,Actual Expenditures,Revenues,Priority Response Command,-52515817.65
+463,2018,Approved Budget,Equipment,Communities & Neighbourhoods Command,40400
+464,2019,Actual Expenditures,Salaries,Specialized Operations Command,128494877.3
+465,2018,Approved Budget,Services,Communities & Neighbourhoods Command,1001200
+466,2019,Actual Expenditures,Benefits,Specialized Operations Command,19988258.93
+467,2018,Approved Budget,Revenues,Communities & Neighbourhoods Command,-184000
+468,2019,Actual Expenditures,Premium Pay,Specialized Operations Command,12773330.94
+469,2020,Actual Expenditures,Benefits,Human Resources Command,7281940.83
+470,2018,Approved Budget,Salaries,Corporate Support Command,41320500
+471,2019,Actual Expenditures,Materials & Supplies,Specialized Operations Command,1744902.05
+472,2020,Actual Expenditures,Premium Pay,Human Resources Command,1665353.62
+473,2018,Approved Budget,Benefits,Corporate Support Command,6222500
+474,2019,Actual Expenditures,Equipment,Specialized Operations Command,3475094.41
+475,2020,Actual Expenditures,Materials & Supplies,Human Resources Command,250757.66
+476,2018,Approved Budget,Premium Pay,Corporate Support Command,747300
+477,2019,Actual Expenditures,Services,Specialized Operations Command,4688281.29
+478,2020,Actual Expenditures,Equipment,Human Resources Command,329584.62
+479,2018,Approved Budget,Materials & Supplies,Corporate Support Command,298700
+480,2019,Actual Expenditures,Revenues,Specialized Operations Command,-4917645.92
+481,2020,Actual Expenditures,Services,Human Resources Command,2933879.61
+482,2018,Approved Budget,Equipment,Corporate Support Command,4200
+483,2019,Actual Expenditures,Salaries,Toronto Police Services Board,977788.95
+484,2020,Actual Expenditures,Revenues,Human Resources Command,-201635.92
+485,2018,Approved Budget,Services,Corporate Support Command,550000
+486,2019,Actual Expenditures,Benefits,Toronto Police Services Board,154114.24
+487,2020,Actual Expenditures,Salaries,Information Technology Command,18068596.4
+488,2018,Approved Budget,Revenues,Corporate Support Command,-5783700
+489,2019,Actual Expenditures,Premium Pay,Toronto Police Services Board,1195.45
+490,2020,Actual Expenditures,Benefits,Information Technology Command,2688206.59
+491,2018,Approved Budget,Salaries,Human Resources Command,33683600
+492,2019,Actual Expenditures,Materials & Supplies,Toronto Police Services Board,3651.44
+493,2020,Actual Expenditures,Premium Pay,Information Technology Command,679200.76
+494,2018,Approved Budget,Benefits,Human Resources Command,4788600
+495,2019,Actual Expenditures,Equipment,Toronto Police Services Board,5347.45
+496,2020,Actual Expenditures,Materials & Supplies,Information Technology Command,833076.04
+497,2018,Approved Budget,Premium Pay,Human Resources Command,597300
+498,2019,Actual Expenditures,Services,Toronto Police Services Board,2857914.71
+499,2020,Actual Expenditures,Equipment,Information Technology Command,1138638.07
+500,2018,Approved Budget,Materials & Supplies,Human Resources Command,255700
+501,2019,Actual Expenditures,Revenues,Toronto Police Services Board,-1678707.52
+502,2020,Actual Expenditures,Services,Information Technology Command,24740745.46
+503,2018,Approved Budget,Equipment,Human Resources Command,11000
+504,2018,Approved Budget,Services,Human Resources Command,1322200
+505,2018,Approved Budget,Revenues,Human Resources Command,0
+506,2018,Approved Budget,Salaries,Information Technology Command,17721700
+507,2018,Approved Budget,Benefits,Information Technology Command,2622300
+508,2018,Approved Budget,Premium Pay,Information Technology Command,281300
+509,2018,Approved Budget,Materials & Supplies,Information Technology Command,605300
+510,2018,Approved Budget,Equipment,Information Technology Command,424300
+511,2018,Approved Budget,Services,Information Technology Command,21430400
+512,2018,Approved Budget,Revenues,Information Technology Command,-1473800
+513,2018,Approved Budget,Salaries,Parking Enforcement Unit,30884000
+514,2018,Approved Budget,Benefits,Parking Enforcement Unit,7389800
+515,2018,Approved Budget,Premium Pay,Parking Enforcement Unit,2558000
+516,2018,Approved Budget,Materials & Supplies,Parking Enforcement Unit,1410900
+517,2018,Approved Budget,Equipment,Parking Enforcement Unit,15000
+518,2018,Approved Budget,Services,Parking Enforcement Unit,6004600
+519,2018,Approved Budget,Revenues,Parking Enforcement Unit,-1539700
+520,2018,Approved Budget,Salaries,Priority Response Command,267447400
+521,2018,Approved Budget,Benefits,Priority Response Command,43432300
+522,2018,Approved Budget,Premium Pay,Priority Response Command,26701500
+523,2018,Approved Budget,Materials & Supplies,Priority Response Command,442100
+524,2018,Approved Budget,Equipment,Priority Response Command,25600
+525,2018,Approved Budget,Services,Priority Response Command,1278700
+526,2018,Approved Budget,Revenues,Priority Response Command,-59259000
+527,2018,Approved Budget,Salaries,Specialized Operations Command,122444000
+528,2018,Approved Budget,Benefits,Specialized Operations Command,18830100
+529,2018,Approved Budget,Premium Pay,Specialized Operations Command,9159300
+530,2018,Approved Budget,Materials & Supplies,Specialized Operations Command,1182700
+531,2018,Approved Budget,Equipment,Specialized Operations Command,899000
+532,2018,Approved Budget,Services,Specialized Operations Command,4097300
+533,2018,Approved Budget,Revenues,Specialized Operations Command,-2588900
+534,2018,Approved Budget,Salaries,Toronto Police Services Board,910700
+535,2018,Approved Budget,Benefits,Toronto Police Services Board,126500
+536,2018,Approved Budget,Premium Pay,Toronto Police Services Board,0
+537,2018,Approved Budget,Materials & Supplies,Toronto Police Services Board,7600
+538,2018,Approved Budget,Equipment,Toronto Police Services Board,0
+539,2018,Approved Budget,Services,Toronto Police Services Board,2389300
+540,2018,Approved Budget,Revenues,Toronto Police Services Board,-1125000
+541,2018,Approved Budget,Salaries,(blank),0
+542,2018,Approved Budget,Benefits,(blank),0
+543,2018,Approved Budget,Premium Pay,(blank),0
+544,2018,Approved Budget,Materials & Supplies,(blank),700
+545,2019,Approved Budget,Salaries,Centralized Service Charges,26363600
+546,2020,Actual Expenditures,Revenues,Information Technology Command,-1125747.92
+547,2018,Approved Budget,Services,(blank),13700
+548,2019,Approved Budget,Benefits,Centralized Service Charges,98917200
+549,2020,Actual Expenditures,Salaries,Parking Enforcement Unit,31992910.76
+550,2018,Approved Budget,Revenues,(blank),0
+551,2019,Approved Budget,Premium Pay,Centralized Service Charges,6953300
+552,2020,Actual Expenditures,Benefits,Parking Enforcement Unit,7983703.85
+553,2019,Actual Expenditures,Salaries,Centralized Service Charges,35543514.42
+554,2019,Approved Budget,Materials & Supplies,Centralized Service Charges,17017900
+555,2020,Actual Expenditures,Premium Pay,Parking Enforcement Unit,915203.79
+556,2019,Actual Expenditures,Benefits,Centralized Service Charges,96470303.27
+557,2019,Approved Budget,Equipment,Centralized Service Charges,2549300
+558,2019,Approved Budget,Services,Centralized Service Charges,94005800
+559,2019,Approved Budget,Revenues,Centralized Service Charges,-86998200
+560,2019,Approved Budget,Salaries,Chief of Police,11135500
+561,2019,Approved Budget,Benefits,Chief of Police,1700000
+562,2019,Approved Budget,Premium Pay,Chief of Police,238600
+563,2019,Approved Budget,Materials & Supplies,Chief of Police,35000
+564,2019,Approved Budget,Equipment,Chief of Police,85500
+565,2019,Approved Budget,Services,Chief of Police,1230900
+566,2019,Approved Budget,Revenues,Chief of Police,0
+567,2019,Approved Budget,Salaries,Communities & Neighbourhoods Command,223428400
+568,2019,Approved Budget,Benefits,Communities & Neighbourhoods Command,34517100
+569,2019,Approved Budget,Premium Pay,Communities & Neighbourhoods Command,3579100
+570,2019,Approved Budget,Materials & Supplies,Communities & Neighbourhoods Command,690700
+571,2019,Approved Budget,Equipment,Communities & Neighbourhoods Command,57000
+572,2019,Approved Budget,Services,Communities & Neighbourhoods Command,1197600
+573,2019,Approved Budget,Revenues,Communities & Neighbourhoods Command,-387600
+574,2019,Approved Budget,Salaries,Corporate Support Command,42870900
+575,2019,Approved Budget,Benefits,Corporate Support Command,6493300
+576,2019,Approved Budget,Premium Pay,Corporate Support Command,763600
+577,2019,Approved Budget,Materials & Supplies,Corporate Support Command,309500
+578,2019,Approved Budget,Equipment,Corporate Support Command,4100
+579,2019,Approved Budget,Services,Corporate Support Command,632500
+580,2019,Approved Budget,Revenues,Corporate Support Command,-5669700
+581,2019,Approved Budget,Salaries,Human Resources Command,46783500
+582,2019,Approved Budget,Benefits,Human Resources Command,5257600
+583,2019,Approved Budget,Premium Pay,Human Resources Command,1220300
+584,2019,Approved Budget,Materials & Supplies,Human Resources Command,338000
+585,2019,Approved Budget,Equipment,Human Resources Command,163700
+586,2019,Approved Budget,Services,Human Resources Command,1952400
+587,2019,Approved Budget,Revenues,Human Resources Command,0
+588,2019,Approved Budget,Salaries,Information Technology Command,19850600
+589,2019,Approved Budget,Benefits,Information Technology Command,2954900
+590,2019,Approved Budget,Premium Pay,Information Technology Command,287600
+591,2019,Approved Budget,Materials & Supplies,Information Technology Command,613500
+592,2019,Approved Budget,Equipment,Information Technology Command,752300
+593,2019,Approved Budget,Services,Information Technology Command,23482500
+594,2020,Actual Expenditures,Materials & Supplies,Parking Enforcement Unit,1093235.43
+595,2020,Actual Expenditures,Equipment,Parking Enforcement Unit,53221.94
+596,2020,Actual Expenditures,Services,Parking Enforcement Unit,5382474.03
+597,2020,Actual Expenditures,Revenues,Parking Enforcement Unit,-1170871.59
+598,2020,Actual Expenditures,Salaries,Priority Response Command,276156212.7
+599,2020,Actual Expenditures,Benefits,Priority Response Command,43604757.82
+600,2020,Actual Expenditures,Premium Pay,Priority Response Command,18556138.76
+601,2020,Actual Expenditures,Materials & Supplies,Priority Response Command,384839.17
+602,2020,Actual Expenditures,Equipment,Priority Response Command,71744.71
+603,2019,Actual Expenditures,Premium Pay,Centralized Service Charges,6139848.06
+604,2020,Actual Expenditures,Services,Priority Response Command,381556.75
+605,2019,Actual Expenditures,Materials & Supplies,Centralized Service Charges,15146635.02
+606,2019,Actual Expenditures,Equipment,Centralized Service Charges,8469945.31
+607,2020,Actual Expenditures,Revenues,Priority Response Command,-46574496.81
+608,2019,Actual Expenditures,Services,Centralized Service Charges,81948502.58
+609,2020,Actual Expenditures,Salaries,Specialized Operations Command,142436766
+610,2020,Actual Expenditures,Benefits,Specialized Operations Command,22282909.47
+611,2020,Actual Expenditures,Premium Pay,Specialized Operations Command,13220942.53
+612,2020,Actual Expenditures,Materials & Supplies,Specialized Operations Command,1379308.85
+613,2020,Actual Expenditures,Equipment,Specialized Operations Command,2997990.29
+614,2020,Actual Expenditures,Services,Specialized Operations Command,3807301.14
+615,2020,Actual Expenditures,Revenues,Specialized Operations Command,-5000989
+616,2020,Actual Expenditures,Salaries,Toronto Police Services Board,1105243.08
+617,2020,Actual Expenditures,Benefits,Toronto Police Services Board,151412.41
+618,2020,Actual Expenditures,Premium Pay,Toronto Police Services Board,1876.1
+619,2020,Actual Expenditures,Materials & Supplies,Toronto Police Services Board,6278.13
+620,2020,Actual Expenditures,Equipment,Toronto Police Services Board,5082.08
+621,2020,Actual Expenditures,Services,Toronto Police Services Board,3822057.7
+622,2020,Actual Expenditures,Revenues,Toronto Police Services Board,-3187460.83
+623,2020,Approved Budget,Salaries,Centralized Service Charges,38617800
+624,2020,Approved Budget,Benefits,Centralized Service Charges,104213700
+625,2020,Approved Budget,Premium Pay,Centralized Service Charges,-2706700
+626,2020,Approved Budget,Materials & Supplies,Centralized Service Charges,16855300
+627,2020,Approved Budget,Equipment,Centralized Service Charges,3055200
+628,2020,Approved Budget,Services,Centralized Service Charges,73980600
+629,2020,Approved Budget,Revenues,Centralized Service Charges,-84882300
+630,2020,Approved Budget,Salaries,Chief of Police,11072000
+631,2020,Approved Budget,Benefits,Chief of Police,1655800
+632,2020,Approved Budget,Premium Pay,Chief of Police,244500
+633,2020,Approved Budget,Materials & Supplies,Chief of Police,51400
+634,2020,Approved Budget,Equipment,Chief of Police,80600
+635,2020,Approved Budget,Services,Chief of Police,713100
+636,2020,Approved Budget,Revenues,Chief of Police,0
+637,2020,Approved Budget,Salaries,Communities & Neighbourhoods Command,219866200
+638,2019,Actual Expenditures,Revenues,Centralized Service Charges,-86039974.7
+639,2019,Actual Expenditures,Salaries,Chief of Police,8268581.94
+640,2019,Actual Expenditures,Benefits,Chief of Police,1203155.5
+641,2019,Actual Expenditures,Premium Pay,Chief of Police,356620.5
+642,2019,Actual Expenditures,Materials & Supplies,Chief of Police,56224.07
+643,2019,Actual Expenditures,Equipment,Chief of Police,143194.26
+644,2019,Actual Expenditures,Services,Chief of Police,1696566.14
+645,2019,Actual Expenditures,Revenues,Chief of Police,-305364.5
+646,2019,Actual Expenditures,Salaries,Communities & Neighbourhoods Command,216232884.1
+647,2019,Actual Expenditures,Benefits,Communities & Neighbourhoods Command,34178950.43
+648,2019,Actual Expenditures,Premium Pay,Communities & Neighbourhoods Command,23528266.25
+649,2019,Actual Expenditures,Materials & Supplies,Communities & Neighbourhoods Command,643744.78
+650,2019,Actual Expenditures,Equipment,Communities & Neighbourhoods Command,125425.8
+651,2019,Actual Expenditures,Services,Communities & Neighbourhoods Command,1538499.39
+652,2019,Actual Expenditures,Revenues,Communities & Neighbourhoods Command,-912945.18
+653,2019,Actual Expenditures,Salaries,Corporate Support Command,38169039.08
+654,2019,Actual Expenditures,Benefits,Corporate Support Command,5834778.11
+655,2019,Actual Expenditures,Premium Pay,Corporate Support Command,1120391.54
+656,2019,Actual Expenditures,Materials & Supplies,Corporate Support Command,311698.29
+657,2019,Actual Expenditures,Equipment,Corporate Support Command,88537.23
+658,2019,Actual Expenditures,Services,Corporate Support Command,1048947.1
+659,2019,Actual Expenditures,Revenues,Corporate Support Command,-6437534.22
+660,2019,Actual Expenditures,Salaries,Human Resources Command,48796852.71
+661,2019,Actual Expenditures,Benefits,Human Resources Command,7399599.21
+662,2019,Actual Expenditures,Premium Pay,Human Resources Command,1520685.25
+663,2019,Actual Expenditures,Materials & Supplies,Human Resources Command,271520.89
+664,2019,Actual Expenditures,Equipment,Human Resources Command,378711.77
+665,2019,Actual Expenditures,Services,Human Resources Command,3095254.15
+666,2019,Actual Expenditures,Revenues,Human Resources Command,-1229314.17
+667,2019,Actual Expenditures,Salaries,Information Technology Command,16855745.25
+668,2019,Actual Expenditures,Benefits,Information Technology Command,2470922.94
+669,2019,Actual Expenditures,Premium Pay,Information Technology Command,492946.25
+670,2019,Actual Expenditures,Materials & Supplies,Information Technology Command,622903.7
+671,2019,Actual Expenditures,Equipment,Information Technology Command,951732.79
+672,2019,Actual Expenditures,Services,Information Technology Command,22382505.69
+673,2019,Actual Expenditures,Revenues,Information Technology Command,-1826490.86
+674,2019,Actual Expenditures,Salaries,Parking Enforcement Unit,29361406.63
+675,2019,Actual Expenditures,Benefits,Parking Enforcement Unit,7616816.03
+676,2019,Actual Expenditures,Premium Pay,Parking Enforcement Unit,2097142.95
+677,2019,Actual Expenditures,Materials & Supplies,Parking Enforcement Unit,1228208.32
+678,2019,Actual Expenditures,Equipment,Parking Enforcement Unit,122348.36
+679,2019,Actual Expenditures,Services,Parking Enforcement Unit,5818073.99
+680,2019,Actual Expenditures,Revenues,Parking Enforcement Unit,-2012495.58
+681,2019,Actual Expenditures,Salaries,Priority Response Command,270945451.1
+682,2019,Actual Expenditures,Benefits,Priority Response Command,42519420.25
+683,2019,Actual Expenditures,Premium Pay,Priority Response Command,26265720.34
+684,2019,Actual Expenditures,Materials & Supplies,Priority Response Command,394760.51
+685,2019,Actual Expenditures,Equipment,Priority Response Command,52949.63
+686,2020,Approved Budget,Benefits,Communities & Neighbourhoods Command,34183500
+687,2020,Approved Budget,Premium Pay,Communities & Neighbourhoods Command,257600
+688,2020,Approved Budget,Materials & Supplies,Communities & Neighbourhoods Command,588900
+689,2020,Approved Budget,Equipment,Communities & Neighbourhoods Command,70400
+690,2020,Approved Budget,Services,Communities & Neighbourhoods Command,805100
+691,2020,Approved Budget,Revenues,Communities & Neighbourhoods Command,-390600
+692,2020,Approved Budget,Salaries,Corporate Support Command,43248600
+693,2020,Approved Budget,Benefits,Corporate Support Command,6374000
+694,2020,Approved Budget,Premium Pay,Corporate Support Command,683400
+695,2020,Approved Budget,Materials & Supplies,Corporate Support Command,312000
+696,2020,Approved Budget,Equipment,Corporate Support Command,1900
+697,2020,Approved Budget,Services,Corporate Support Command,525200
+698,2020,Approved Budget,Revenues,Corporate Support Command,-6398500
+699,2020,Approved Budget,Salaries,Human Resources Command,46747900
+700,2020,Approved Budget,Benefits,Human Resources Command,5282900
+701,2020,Approved Budget,Premium Pay,Human Resources Command,1250800
+702,2020,Approved Budget,Materials & Supplies,Human Resources Command,295900
+703,2020,Approved Budget,Equipment,Human Resources Command,100800
+704,2020,Approved Budget,Services,Human Resources Command,2399400
+705,2020,Approved Budget,Revenues,Human Resources Command,0
+706,2020,Approved Budget,Salaries,Information Technology Command,19640800
+707,2020,Approved Budget,Benefits,Information Technology Command,2734700
+708,2020,Approved Budget,Premium Pay,Information Technology Command,294900
+709,2020,Approved Budget,Materials & Supplies,Information Technology Command,793100
+710,2020,Approved Budget,Equipment,Information Technology Command,527400
+711,2020,Approved Budget,Services,Information Technology Command,27061300
+712,2020,Approved Budget,Revenues,Information Technology Command,-771400
+713,2020,Approved Budget,Salaries,Parking Enforcement Unit,32977600
+714,2020,Approved Budget,Benefits,Parking Enforcement Unit,7993600
+715,2020,Approved Budget,Premium Pay,Parking Enforcement Unit,2434300
+716,2020,Approved Budget,Materials & Supplies,Parking Enforcement Unit,1657600
+717,2020,Approved Budget,Equipment,Parking Enforcement Unit,13900
+718,2020,Approved Budget,Services,Parking Enforcement Unit,5691500
+719,2020,Approved Budget,Revenues,Parking Enforcement Unit,-1539700
+720,2020,Approved Budget,Salaries,Priority Response Command,307975100
+721,2020,Approved Budget,Benefits,Priority Response Command,45378300
+722,2020,Approved Budget,Premium Pay,Priority Response Command,39662600
+723,2020,Approved Budget,Materials & Supplies,Priority Response Command,429900
+724,2020,Approved Budget,Equipment,Priority Response Command,25600
+725,2020,Approved Budget,Services,Priority Response Command,881800
+726,2020,Approved Budget,Revenues,Priority Response Command,-49989300
+727,2020,Approved Budget,Salaries,Specialized Operations Command,129174400
+728,2020,Approved Budget,Benefits,Specialized Operations Command,19831800
+729,2020,Approved Budget,Premium Pay,Specialized Operations Command,9912400
+730,2020,Approved Budget,Materials & Supplies,Specialized Operations Command,1310000
+731,2020,Approved Budget,Equipment,Specialized Operations Command,990200
+732,2020,Approved Budget,Services,Specialized Operations Command,3763600
+733,2020,Approved Budget,Revenues,Specialized Operations Command,-2588900
+734,2020,Approved Budget,Salaries,Toronto Police Services Board,1161900
+735,2020,Approved Budget,Benefits,Toronto Police Services Board,168400
+736,2020,Approved Budget,Premium Pay,Toronto Police Services Board,0
+737,2020,Approved Budget,Materials & Supplies,Toronto Police Services Board,7600
+738,2020,Approved Budget,Equipment,Toronto Police Services Board,6600
+739,2020,Approved Budget,Services,Toronto Police Services Board,3998600
+740,2020,Approved Budget,Revenues,Toronto Police Services Board,-3412700
